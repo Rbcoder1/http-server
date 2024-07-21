@@ -1,0 +1,286 @@
+2024-07-21 14:32:06 [Thread-3] INFO  com.webserver.ServerInit - SERVER ERROR :java.io.IOException: Invalid HTTP request
+2024-07-21 14:32:27 [Thread-1] INFO  com.webserver.ServerInit - SERVER ERROR :java.io.IOException: Invalid HTTP request
+2024-07-21 15:34:15 [main] INFO  com.webserver.ServerInit - SERVER START : Listening on port 8000
+2024-07-21 15:34:27 [main] INFO  com.webserver.ServerInit - CLIENT CONNECTED
+2024-07-21 15:34:27 [main] INFO  com.webserver.ServerInit - CLIENT CONNECTED
+2024-07-21 15:34:27 [Thread-0] INFO  com.webserver.ServerInit - SERVER : GET/ HTTP/1.1/ : Requested
+2024-07-21 15:34:27 [Thread-0] INFO  com.webserver.ServerInit - SERVER : [200] 'GET // HTTP/1.1/ '
+2024-07-21 15:34:28 [main] INFO  com.webserver.ServerInit - CLIENT CONNECTED
+2024-07-21 15:34:28 [Thread-1] INFO  com.webserver.ServerInit - SERVER : GET/ HTTP/1.1/ : Requested
+2024-07-21 15:34:28 [Thread-1] INFO  com.webserver.ServerInit - SERVER : [200] 'GET // HTTP/1.1/ '
+2024-07-21 15:34:33 [main] INFO  com.webserver.ServerInit - CLIENT CONNECTED
+2024-07-21 15:34:33 [Thread-2] INFO  com.webserver.ServerInit - SERVER : GET/ HTTP/1.1/ : Requested
+2024-07-21 15:34:33 [Thread-2] INFO  com.webserver.ServerInit - SERVER : [200] 'GET // HTTP/1.1/ '
+2024-07-21 15:34:34 [Thread-3] INFO  com.webserver.ServerInit - SERVER ERROR :java.io.IOException: Invalid HTTP request
+2024-07-21 15:34:51 [main] INFO  com.webserver.ServerInit - CLIENT CONNECTED
+2024-07-21 15:34:51 [main] INFO  com.webserver.ServerInit - CLIENT CONNECTED
+2024-07-21 15:34:51 [Thread-4] INFO  com.webserver.ServerInit - SERVER : GET/ HTTP/1.1/ : Requested
+2024-07-21 15:34:51 [Thread-4] INFO  com.webserver.ServerInit - SERVER : [200] 'GET // HTTP/1.1/ '
+2024-07-21 15:34:54 [Thread-5] INFO  com.webserver.ServerInit - SERVER ERROR :java.io.IOException: Invalid HTTP request
+2024-07-21 15:35:18 [main] INFO  com.webserver.ServerInit - CLIENT CONNECTED
+2024-07-21 15:35:18 [main] INFO  com.webserver.ServerInit - CLIENT CONNECTED
+2024-07-21 15:35:18 [Thread-7] INFO  com.webserver.ServerInit - SERVER : GET/ HTTP/1.1/ : Requested
+2024-07-21 15:35:18 [Thread-7] INFO  com.webserver.ServerInit - SERVER ERROR :java.nio.file.NoSuchFileException: D:\Projects\Java\javawebserver\www\good
+2024-07-21 15:35:22 [main] INFO  com.webserver.ServerInit - CLIENT CONNECTED
+2024-07-21 15:35:22 [Thread-6] INFO  com.webserver.ServerInit - SERVER : GET/ HTTP/1.1/ : Requested
+2024-07-21 15:35:22 [Thread-6] INFO  com.webserver.ServerInit - SERVER : [200] 'GET // HTTP/1.1/ '
+2024-07-21 15:35:37 [main] INFO  com.webserver.ServerInit - CLIENT CONNECTED
+2024-07-21 15:35:37 [Thread-8] INFO  com.webserver.ServerInit - SERVER : GET/ HTTP/1.1/ : Requested
+2024-07-21 15:35:37 [Thread-8] INFO  com.webserver.ServerInit - SERVER : [200] 'GET /project/ HTTP/1.1/ '
+2024-07-21 15:35:38 [main] INFO  com.webserver.ServerInit - CLIENT CONNECTED
+2024-07-21 15:35:38 [Thread-9] INFO  com.webserver.ServerInit - SERVER : GET/ HTTP/1.1/ : Requested
+2024-07-21 15:35:38 [Thread-9] INFO  com.webserver.ServerInit - SERVER : [200] 'GET /project/ HTTP/1.1/ '
+2024-07-21 15:35:43 [main] INFO  com.webserver.ServerInit - CLIENT CONNECTED
+2024-07-21 15:35:43 [Thread-10] INFO  com.webserver.ServerInit - SERVER : GET/ HTTP/1.1/ : Requested
+2024-07-21 15:35:43 [Thread-10] INFO  com.webserver.ServerInit - SERVER : [200] 'GET /project/ HTTP/1.1/ '
+2024-07-21 15:36:09 [Thread-11] INFO  com.webserver.ServerInit - SERVER ERROR :java.io.IOException: Invalid HTTP request
+2024-07-21 15:36:12 [main] INFO  com.webserver.ServerInit - CLIENT CONNECTED
+2024-07-21 15:36:12 [Thread-12] INFO  com.webserver.ServerInit - SERVER : GET/ HTTP/1.1/ : Requested
+2024-07-21 15:36:12 [main] INFO  com.webserver.ServerInit - CLIENT CONNECTED
+2024-07-21 15:36:12 [Thread-12] INFO  com.webserver.ServerInit - SERVER : [200] 'GET // HTTP/1.1/ '
+2024-07-21 15:36:13 [Thread-13] INFO  com.webserver.ServerInit - SERVER : GET/ HTTP/1.1/ : Requested
+2024-07-21 15:36:13 [main] INFO  com.webserver.ServerInit - CLIENT CONNECTED
+2024-07-21 15:36:13 [Thread-13] INFO  com.webserver.ServerInit - SERVER : [200] 'GET // HTTP/1.1/ '
+2024-07-21 15:36:18 [Thread-14] INFO  com.webserver.ServerInit - SERVER : GET/ HTTP/1.1/ : Requested
+2024-07-21 15:36:18 [main] INFO  com.webserver.ServerInit - CLIENT CONNECTED
+2024-07-21 15:36:18 [Thread-14] INFO  com.webserver.ServerInit - SERVER : [200] 'GET // HTTP/1.1/ '
+2024-07-21 15:36:19 [Thread-15] INFO  com.webserver.ServerInit - SERVER ERROR :java.io.IOException: Invalid HTTP request
+2024-07-21 15:36:30 [main] INFO  com.webserver.ServerInit - CLIENT CONNECTED
+2024-07-21 15:36:30 [Thread-16] INFO  com.webserver.ServerInit - SERVER : GET/ HTTP/1.1/ : Requested
+2024-07-21 15:36:30 [main] INFO  com.webserver.ServerInit - CLIENT CONNECTED
+2024-07-21 15:36:30 [Thread-16] INFO  com.webserver.ServerInit - SERVER : [200] 'GET // HTTP/1.1/ '
+2024-07-21 15:36:39 [Thread-17] INFO  com.webserver.ServerInit - SERVER : GET/ HTTP/1.1/ : Requested
+2024-07-21 15:36:39 [main] INFO  com.webserver.ServerInit - CLIENT CONNECTED
+2024-07-21 15:36:39 [Thread-17] INFO  com.webserver.ServerInit - SERVER : [200] 'GET /project/ HTTP/1.1/ '
+2024-07-21 15:36:39 [Thread-18] INFO  com.webserver.ServerInit - SERVER ERROR :java.io.IOException: Invalid HTTP request
+2024-07-21 15:36:40 [main] INFO  com.webserver.ServerInit - CLIENT CONNECTED
+2024-07-21 15:36:40 [Thread-19] INFO  com.webserver.ServerInit - SERVER : GET/ HTTP/1.1/ : Requested
+2024-07-21 15:36:40 [main] INFO  com.webserver.ServerInit - CLIENT CONNECTED
+2024-07-21 15:36:40 [Thread-19] INFO  com.webserver.ServerInit - SERVER : [200] 'GET /project/ HTTP/1.1/ '
+2024-07-21 15:36:45 [main] INFO  com.webserver.ServerInit - CLIENT CONNECTED
+2024-07-21 15:36:45 [Thread-20] INFO  com.webserver.ServerInit - SERVER : GET/ HTTP/1.1/ : Requested
+2024-07-21 15:36:45 [Thread-20] INFO  com.webserver.ServerInit - SERVER : [200] 'GET /project/ HTTP/1.1/ '
+2024-07-21 15:36:49 [Thread-21] INFO  com.webserver.ServerInit - SERVER ERROR :java.io.IOException: Invalid HTTP request
+2024-07-21 15:37:15 [main] INFO  com.webserver.ServerInit - CLIENT CONNECTED
+2024-07-21 15:37:15 [main] INFO  com.webserver.ServerInit - CLIENT CONNECTED
+2024-07-21 15:37:15 [Thread-22] INFO  com.webserver.ServerInit - SERVER : GET/ HTTP/1.1/ : Requested
+2024-07-21 15:37:15 [Thread-22] INFO  com.webserver.ServerInit - SERVER : [200] 'GET /project/ HTTP/1.1/ '
+2024-07-21 15:37:49 [Thread-23] INFO  com.webserver.ServerInit - SERVER ERROR :java.io.IOException: Invalid HTTP request
+2024-07-21 15:38:05 [main] INFO  com.webserver.ServerInit - SERVER START : Listening on port 8000
+2024-07-21 15:38:10 [main] INFO  com.webserver.ServerInit - CLIENT CONNECTED
+2024-07-21 15:38:10 [main] INFO  com.webserver.ServerInit - CLIENT CONNECTED
+2024-07-21 15:38:10 [Thread-0] INFO  com.webserver.ServerInit - SERVER : GET/ HTTP/1.1/ : Requested
+2024-07-21 15:38:10 [Thread-0] INFO  com.webserver.ServerInit - D:\Projects\Java\javawebserver\www/
+2024-07-21 15:38:10 [Thread-0] INFO  com.webserver.ServerInit - D:\Projects\Java\javawebserver\www/
+2024-07-21 15:38:10 [Thread-0] INFO  com.webserver.ServerInit - SERVER : [200] 'GET // HTTP/1.1/ '
+2024-07-21 15:38:11 [main] INFO  com.webserver.ServerInit - CLIENT CONNECTED
+2024-07-21 15:38:11 [Thread-1] INFO  com.webserver.ServerInit - SERVER : GET/ HTTP/1.1/ : Requested
+2024-07-21 15:38:11 [Thread-1] INFO  com.webserver.ServerInit - D:\Projects\Java\javawebserver\www/
+2024-07-21 15:38:11 [Thread-1] INFO  com.webserver.ServerInit - D:\Projects\Java\javawebserver\www/
+2024-07-21 15:38:11 [Thread-1] INFO  com.webserver.ServerInit - SERVER : [200] 'GET // HTTP/1.1/ '
+2024-07-21 15:38:16 [main] INFO  com.webserver.ServerInit - CLIENT CONNECTED
+2024-07-21 15:38:16 [Thread-2] INFO  com.webserver.ServerInit - SERVER : GET/ HTTP/1.1/ : Requested
+2024-07-21 15:38:16 [Thread-2] INFO  com.webserver.ServerInit - D:\Projects\Java\javawebserver\www/
+2024-07-21 15:38:16 [Thread-2] INFO  com.webserver.ServerInit - D:\Projects\Java\javawebserver\www/
+2024-07-21 15:38:16 [Thread-2] INFO  com.webserver.ServerInit - SERVER : [200] 'GET // HTTP/1.1/ '
+2024-07-21 15:38:19 [Thread-3] INFO  com.webserver.ServerInit - SERVER ERROR :java.io.IOException: Invalid HTTP request
+2024-07-21 15:38:46 [main] INFO  com.webserver.ServerInit - CLIENT CONNECTED
+2024-07-21 15:38:46 [main] INFO  com.webserver.ServerInit - CLIENT CONNECTED
+2024-07-21 15:38:46 [Thread-4] INFO  com.webserver.ServerInit - SERVER : GET/ HTTP/1.1/ : Requested
+2024-07-21 15:38:46 [Thread-4] INFO  com.webserver.ServerInit - D:\Projects\Java\javawebserver\www/
+2024-07-21 15:38:46 [Thread-4] INFO  com.webserver.ServerInit - D:\Projects\Java\javawebserver\www/
+2024-07-21 15:38:46 [Thread-4] INFO  com.webserver.ServerInit - SERVER : [200] 'GET // HTTP/1.1/ '
+2024-07-21 15:38:49 [Thread-5] INFO  com.webserver.ServerInit - SERVER ERROR :java.io.IOException: Invalid HTTP request
+2024-07-21 15:39:46 [main] INFO  com.webserver.ServerInit - CLIENT CONNECTED
+2024-07-21 15:39:46 [main] INFO  com.webserver.ServerInit - CLIENT CONNECTED
+2024-07-21 15:39:46 [Thread-6] INFO  com.webserver.ServerInit - SERVER : GET/ HTTP/1.1/ : Requested
+2024-07-21 15:39:46 [Thread-6] INFO  com.webserver.ServerInit - D:\Projects\Java\javawebserver\www/
+2024-07-21 15:39:46 [Thread-6] INFO  com.webserver.ServerInit - D:\Projects\Java\javawebserver\www/
+2024-07-21 15:39:46 [Thread-6] INFO  com.webserver.ServerInit - SERVER : [200] 'GET // HTTP/1.1/ '
+2024-07-21 15:39:49 [Thread-7] INFO  com.webserver.ServerInit - SERVER ERROR :java.io.IOException: Invalid HTTP request
+2024-07-21 15:42:46 [main] INFO  com.webserver.ServerInit - SERVER START : Listening on port 8000
+2024-07-21 15:42:51 [main] INFO  com.webserver.ServerInit - CLIENT CONNECTED
+2024-07-21 15:42:51 [Thread-0] INFO  com.webserver.ServerInit - SERVER : GET/ HTTP/1.1/ : Requested
+2024-07-21 15:42:51 [main] INFO  com.webserver.ServerInit - CLIENT CONNECTED
+2024-07-21 15:42:51 [Thread-0] INFO  com.webserver.ServerInit - D:\Projects\Java\javawebserver\www/index.html
+2024-07-21 15:42:51 [Thread-0] INFO  com.webserver.ServerInit - SERVER : [200] 'GET /index.html/ HTTP/1.1/ '
+2024-07-21 15:42:54 [Thread-1] INFO  com.webserver.ServerInit - SERVER ERROR :java.io.IOException: Invalid HTTP request
+2024-07-21 15:43:07 [main] INFO  com.webserver.ServerInit - CLIENT CONNECTED
+2024-07-21 15:43:07 [Thread-2] INFO  com.webserver.ServerInit - SERVER : GET/ HTTP/1.1/ : Requested
+2024-07-21 15:43:07 [main] INFO  com.webserver.ServerInit - CLIENT CONNECTED
+2024-07-21 15:43:07 [Thread-2] INFO  com.webserver.ServerInit - D:\Projects\Java\javawebserver\www/project
+2024-07-21 15:43:07 [Thread-2] INFO  com.webserver.ServerInit - D:\Projects\Java\javawebserver\www/project
+2024-07-21 15:43:07 [Thread-2] INFO  com.webserver.ServerInit - SERVER : [200] 'GET /project/ HTTP/1.1/ '
+2024-07-21 15:43:08 [main] INFO  com.webserver.ServerInit - CLIENT CONNECTED
+2024-07-21 15:43:08 [Thread-3] INFO  com.webserver.ServerInit - SERVER : GET/ HTTP/1.1/ : Requested
+2024-07-21 15:43:08 [Thread-3] INFO  com.webserver.ServerInit - D:\Projects\Java\javawebserver\www/project
+2024-07-21 15:43:08 [Thread-3] INFO  com.webserver.ServerInit - D:\Projects\Java\javawebserver\www/project
+2024-07-21 15:43:08 [Thread-3] INFO  com.webserver.ServerInit - SERVER : [200] 'GET /project/ HTTP/1.1/ '
+2024-07-21 15:43:13 [main] INFO  com.webserver.ServerInit - CLIENT CONNECTED
+2024-07-21 15:43:13 [Thread-4] INFO  com.webserver.ServerInit - SERVER : GET/ HTTP/1.1/ : Requested
+2024-07-21 15:43:13 [Thread-4] INFO  com.webserver.ServerInit - D:\Projects\Java\javawebserver\www/project
+2024-07-21 15:43:13 [Thread-4] INFO  com.webserver.ServerInit - D:\Projects\Java\javawebserver\www/project
+2024-07-21 15:43:13 [Thread-4] INFO  com.webserver.ServerInit - SERVER : [200] 'GET /project/ HTTP/1.1/ '
+2024-07-21 15:43:14 [Thread-5] INFO  com.webserver.ServerInit - SERVER ERROR :java.io.IOException: Invalid HTTP request
+2024-07-21 15:43:43 [main] INFO  com.webserver.ServerInit - CLIENT CONNECTED
+2024-07-21 15:43:43 [main] INFO  com.webserver.ServerInit - CLIENT CONNECTED
+2024-07-21 15:43:43 [Thread-6] INFO  com.webserver.ServerInit - SERVER : GET/ HTTP/1.1/ : Requested
+2024-07-21 15:43:43 [Thread-6] INFO  com.webserver.ServerInit - D:\Projects\Java\javawebserver\www/project
+2024-07-21 15:43:43 [Thread-6] INFO  com.webserver.ServerInit - D:\Projects\Java\javawebserver\www/project
+2024-07-21 15:43:43 [Thread-6] INFO  com.webserver.ServerInit - SERVER : [200] 'GET /project/ HTTP/1.1/ '
+2024-07-21 15:43:55 [Thread-7] INFO  com.webserver.ServerInit - SERVER ERROR :java.io.IOException: Invalid HTTP request
+2024-07-21 15:44:23 [main] INFO  com.webserver.ServerInit - SERVER START : Listening on port 8000
+2024-07-21 15:44:26 [main] INFO  com.webserver.ServerInit - CLIENT CONNECTED
+2024-07-21 15:44:26 [main] INFO  com.webserver.ServerInit - CLIENT CONNECTED
+2024-07-21 15:44:26 [Thread-0] INFO  com.webserver.ServerInit - SERVER : GET/ HTTP/1.1/ : Requested
+2024-07-21 15:44:26 [Thread-0] INFO  com.webserver.ServerInit - File :D:\Projects\Java\javawebserver\www/project
+2024-07-21 15:44:26 [Thread-0] INFO  com.webserver.ServerInit - Directory :D:\Projects\Java\javawebserver\www/project
+2024-07-21 15:44:26 [Thread-0] INFO  com.webserver.ServerInit - SERVER : [200] 'GET /project/ HTTP/1.1/ '
+2024-07-21 15:45:18 [main] INFO  com.webserver.ServerInit - SERVER START : Listening on port 8000
+2024-07-21 15:45:20 [main] INFO  com.webserver.ServerInit - CLIENT CONNECTED
+2024-07-21 15:45:20 [main] INFO  com.webserver.ServerInit - CLIENT CONNECTED
+2024-07-21 15:45:20 [Thread-0] INFO  com.webserver.ServerInit - SERVER : GET/ HTTP/1.1/ : Requested
+2024-07-21 15:45:20 [Thread-0] INFO  com.webserver.ServerInit - File :D:\Projects\Java\javawebserver\www/project
+2024-07-21 15:45:20 [Thread-0] INFO  com.webserver.ServerInit - Directory :D:\Projects\Java\javawebserver\www/project
+2024-07-21 15:45:20 [Thread-0] INFO  com.webserver.ServerInit - SERVER : [200] 'GET /project/ HTTP/1.1/ '
+2024-07-21 15:46:04 [main] INFO  com.webserver.ServerInit - SERVER START : Listening on port 8000
+2024-07-21 15:46:05 [main] INFO  com.webserver.ServerInit - CLIENT CONNECTED
+2024-07-21 15:46:05 [main] INFO  com.webserver.ServerInit - CLIENT CONNECTED
+2024-07-21 15:46:05 [Thread-0] INFO  com.webserver.ServerInit - SERVER : GET/ HTTP/1.1/ : Requested
+2024-07-21 15:46:05 [Thread-0] INFO  com.webserver.ServerInit - File :D:\Projects\Java\javawebserver\www/project
+2024-07-21 15:46:05 [Thread-0] INFO  com.webserver.ServerInit - Directory :D:\Projects\Java\javawebserver\www/project
+2024-07-21 15:46:05 [Thread-0] INFO  com.webserver.ServerInit - SERVER : [200] 'GET /project/ HTTP/1.1/ '
+2024-07-21 15:46:10 [Thread-1] INFO  com.webserver.ServerInit - SERVER ERROR :java.io.IOException: Invalid HTTP request
+2024-07-21 15:47:04 [main] INFO  com.webserver.ServerInit - SERVER START : Listening on port 8000
+2024-07-21 15:47:05 [main] INFO  com.webserver.ServerInit - CLIENT CONNECTED
+2024-07-21 15:47:05 [main] INFO  com.webserver.ServerInit - CLIENT CONNECTED
+2024-07-21 15:47:05 [Thread-0] INFO  com.webserver.ServerInit - SERVER ERROR :java.io.IOException: Invalid HTTP request
+2024-07-21 15:47:05 [Thread-1] INFO  com.webserver.ServerInit - SERVER : GET/ HTTP/1.1/ : Requested
+2024-07-21 15:47:05 [Thread-1] INFO  com.webserver.ServerInit - File :D:\Projects\Java\javawebserver\www/project
+2024-07-21 15:47:05 [Thread-1] INFO  com.webserver.ServerInit - Directory :D:\Projects\Java\javawebserver\www/project
+2024-07-21 15:47:05 [Thread-1] INFO  com.webserver.ServerInit - SERVER : [200] 'GET /project/ HTTP/1.1/ '
+2024-07-21 15:47:28 [main] INFO  com.webserver.ServerInit - SERVER START : Listening on port 8000
+2024-07-21 15:47:33 [main] INFO  com.webserver.ServerInit - CLIENT CONNECTED
+2024-07-21 15:47:33 [main] INFO  com.webserver.ServerInit - CLIENT CONNECTED
+2024-07-21 15:47:33 [Thread-0] INFO  com.webserver.ServerInit - SERVER : GET/ HTTP/1.1/ : Requested
+2024-07-21 15:47:33 [Thread-0] INFO  com.webserver.ServerInit - File :D:\Projects\Java\javawebserver\www/project
+2024-07-21 15:47:33 [Thread-0] INFO  com.webserver.ServerInit - Directory :D:\Projects\Java\javawebserver\www/project
+2024-07-21 15:47:33 [Thread-0] INFO  com.webserver.ServerInit - SERVER : [200] 'GET /project/ HTTP/1.1/ '
+2024-07-21 15:47:45 [Thread-1] INFO  com.webserver.ServerInit - SERVER ERROR :java.io.IOException: Invalid HTTP request
+2024-07-21 15:48:33 [main] INFO  com.webserver.ServerInit - CLIENT CONNECTED
+2024-07-21 15:48:33 [main] INFO  com.webserver.ServerInit - CLIENT CONNECTED
+2024-07-21 15:48:33 [Thread-2] INFO  com.webserver.ServerInit - SERVER : GET/ HTTP/1.1/ : Requested
+2024-07-21 15:48:33 [Thread-2] INFO  com.webserver.ServerInit - File :D:\Projects\Java\javawebserver\www/project
+2024-07-21 15:48:33 [Thread-2] INFO  com.webserver.ServerInit - Directory :D:\Projects\Java\javawebserver\www/project
+2024-07-21 15:48:33 [Thread-2] INFO  com.webserver.ServerInit - SERVER : [200] 'GET /project/ HTTP/1.1/ '
+2024-07-21 15:48:35 [Thread-3] INFO  com.webserver.ServerInit - SERVER ERROR :java.io.IOException: Invalid HTTP request
+2024-07-21 15:51:49 [main] INFO  com.webserver.ServerInit - SERVER START : Listening on port 8000
+2024-07-21 15:51:51 [main] INFO  com.webserver.ServerInit - CLIENT CONNECTED
+2024-07-21 15:51:51 [main] INFO  com.webserver.ServerInit - CLIENT CONNECTED
+2024-07-21 15:52:15 [main] INFO  com.webserver.ServerInit - SERVER START : Listening on port 8000
+2024-07-21 15:52:15 [main] INFO  com.webserver.ServerInit - CLIENT CONNECTED
+2024-07-21 15:52:15 [Thread-0] INFO  com.webserver.ServerInit - SERVER : GET/ HTTP/1.1/ : Requested
+2024-07-21 15:52:15 [Thread-0] INFO  com.webserver.ServerInit - File :D:\Projects\Java\javawebserver\www/project
+2024-07-21 15:52:15 [Thread-0] INFO  com.webserver.ServerInit - Directory :D:\Projects\Java\javawebserver\www/project
+2024-07-21 15:52:15 [Thread-0] INFO  com.webserver.ServerInit - SERVER : [200] 'GET /project/ HTTP/1.1/ '
+2024-07-21 15:52:15 [main] INFO  com.webserver.ServerInit - CLIENT CONNECTED
+2024-07-21 15:52:22 [Thread-1] INFO  com.webserver.ServerInit - SERVER : GET/ HTTP/1.1/ : Requested
+2024-07-21 15:52:22 [Thread-1] INFO  com.webserver.ServerInit - File :D:\Projects\Java\javawebserver\www/project
+2024-07-21 15:52:22 [Thread-1] INFO  com.webserver.ServerInit - Directory :D:\Projects\Java\javawebserver\www/project
+2024-07-21 15:52:22 [Thread-1] INFO  com.webserver.ServerInit - SERVER : [200] 'GET /project/ HTTP/1.1/ '
+2024-07-21 15:52:24 [main] INFO  com.webserver.ServerInit - CLIENT CONNECTED
+2024-07-21 15:52:24 [Thread-2] INFO  com.webserver.ServerInit - SERVER : GET/ HTTP/1.1/ : Requested
+2024-07-21 15:52:24 [Thread-2] INFO  com.webserver.ServerInit - File :D:\Projects\Java\javawebserver\www/project
+2024-07-21 15:52:24 [Thread-2] INFO  com.webserver.ServerInit - Directory :D:\Projects\Java\javawebserver\www/project
+2024-07-21 15:52:24 [Thread-2] INFO  com.webserver.ServerInit - SERVER : [200] 'GET /project/ HTTP/1.1/ '
+2024-07-21 15:52:28 [main] INFO  com.webserver.ServerInit - CLIENT CONNECTED
+2024-07-21 15:52:28 [Thread-3] INFO  com.webserver.ServerInit - SERVER : GET/ HTTP/1.1/ : Requested
+2024-07-21 15:52:28 [Thread-3] INFO  com.webserver.ServerInit - File :D:\Projects\Java\javawebserver\www/index.html
+2024-07-21 15:52:28 [Thread-3] INFO  com.webserver.ServerInit - SERVER : [200] 'GET /index.html/ HTTP/1.1/ '
+2024-07-21 15:52:41 [main] INFO  com.webserver.ServerInit - CLIENT CONNECTED
+2024-07-21 15:52:41 [Thread-4] INFO  com.webserver.ServerInit - SERVER : GET/ HTTP/1.1/ : Requested
+2024-07-21 15:52:41 [Thread-4] INFO  com.webserver.ServerInit - File :D:\Projects\Java\javawebserver\www/project
+2024-07-21 15:52:41 [Thread-4] INFO  com.webserver.ServerInit - Directory :D:\Projects\Java\javawebserver\www/project
+2024-07-21 15:52:41 [Thread-4] INFO  com.webserver.ServerInit - SERVER : [200] 'GET /project/ HTTP/1.1/ '
+2024-07-21 15:52:55 [main] INFO  com.webserver.ServerInit - CLIENT CONNECTED
+2024-07-21 15:53:00 [Thread-5] INFO  com.webserver.ServerInit - SERVER ERROR :java.io.IOException: Invalid HTTP request
+2024-07-21 15:53:15 [main] INFO  com.webserver.ServerInit - CLIENT CONNECTED
+2024-07-21 15:53:15 [Thread-6] INFO  com.webserver.ServerInit - SERVER : GET/ HTTP/1.1/ : Requested
+2024-07-21 15:53:15 [Thread-6] INFO  com.webserver.ServerInit - File :D:\Projects\Java\javawebserver\www/project
+2024-07-21 15:53:15 [Thread-6] INFO  com.webserver.ServerInit - Directory :D:\Projects\Java\javawebserver\www/project
+2024-07-21 15:53:15 [Thread-6] INFO  com.webserver.ServerInit - SERVER : [200] 'GET /project/ HTTP/1.1/ '
+2024-07-21 15:58:30 [main] INFO  com.webserver.ServerInit - SERVER START : Listening on port 8000
+2024-07-21 15:58:34 [main] INFO  com.webserver.ServerInit - CLIENT CONNECTED
+2024-07-21 15:58:34 [main] INFO  com.webserver.ServerInit - CLIENT CONNECTED
+2024-07-21 15:58:34 [Thread-0] INFO  com.webserver.ServerInit - SERVER : GET/ HTTP/1.1/ : Requested
+2024-07-21 15:58:34 [Thread-0] INFO  com.webserver.ServerInit - File :D:\Projects\Java\javawebserver\www/project
+2024-07-21 15:58:34 [Thread-0] INFO  com.webserver.ServerInit - Directory :D:\Projects\Java\javawebserver\www/project
+2024-07-21 15:58:34 [Thread-0] INFO  com.webserver.ServerInit - SERVER : [200] 'GET /project/ HTTP/1.1/ '
+2024-07-21 15:58:42 [Thread-1] INFO  com.webserver.ServerInit - SERVER : GET/ HTTP/1.1/ : Requested
+2024-07-21 15:58:42 [Thread-1] INFO  com.webserver.ServerInit - File :D:\Projects\Java\javawebserver\www/index.html
+2024-07-21 15:58:42 [Thread-1] INFO  com.webserver.ServerInit - SERVER : [200] 'GET /index.html/ HTTP/1.1/ '
+2024-07-21 15:58:50 [main] INFO  com.webserver.ServerInit - CLIENT CONNECTED
+2024-07-21 15:58:50 [Thread-2] INFO  com.webserver.ServerInit - SERVER : GET/ HTTP/1.1/ : Requested
+2024-07-21 15:58:50 [Thread-2] INFO  com.webserver.ServerInit - File :D:\Projects\Java\javawebserver\www/dorect
+2024-07-21 15:58:57 [main] INFO  com.webserver.ServerInit - CLIENT CONNECTED
+2024-07-21 15:58:57 [Thread-3] INFO  com.webserver.ServerInit - SERVER : GET/ HTTP/1.1/ : Requested
+2024-07-21 15:58:57 [Thread-3] INFO  com.webserver.ServerInit - File :D:\Projects\Java\javawebserver\www/welcome
+2024-07-21 15:59:03 [main] INFO  com.webserver.ServerInit - CLIENT CONNECTED
+2024-07-21 15:59:03 [Thread-4] INFO  com.webserver.ServerInit - SERVER : GET/ HTTP/1.1/ : Requested
+2024-07-21 15:59:03 [Thread-4] INFO  com.webserver.ServerInit - File :D:\Projects\Java\javawebserver\www/project
+2024-07-21 15:59:03 [Thread-4] INFO  com.webserver.ServerInit - Directory :D:\Projects\Java\javawebserver\www/project
+2024-07-21 15:59:03 [Thread-4] INFO  com.webserver.ServerInit - SERVER : [200] 'GET /project/ HTTP/1.1/ '
+2024-07-21 16:00:04 [main] INFO  com.webserver.ServerInit - CLIENT CONNECTED
+2024-07-21 16:00:04 [Thread-5] INFO  com.webserver.ServerInit - SERVER : GET/ HTTP/1.1/ : Requested
+2024-07-21 16:00:04 [Thread-5] INFO  com.webserver.ServerInit - File :D:\Projects\Java\javawebserver\www/project
+2024-07-21 16:00:04 [Thread-5] INFO  com.webserver.ServerInit - Directory :D:\Projects\Java\javawebserver\www/project
+2024-07-21 16:00:04 [Thread-5] INFO  com.webserver.ServerInit - SERVER : [200] 'GET /project/ HTTP/1.1/ '
+2024-07-21 16:00:06 [main] INFO  com.webserver.ServerInit - CLIENT CONNECTED
+2024-07-21 16:00:06 [Thread-6] INFO  com.webserver.ServerInit - SERVER : GET/ HTTP/1.1/ : Requested
+2024-07-21 16:00:06 [Thread-6] INFO  com.webserver.ServerInit - File :D:\Projects\Java\javawebserver\www/project
+2024-07-21 16:00:06 [Thread-6] INFO  com.webserver.ServerInit - Directory :D:\Projects\Java\javawebserver\www/project
+2024-07-21 16:00:06 [Thread-6] INFO  com.webserver.ServerInit - SERVER : [200] 'GET /project/ HTTP/1.1/ '
+2024-07-21 16:00:13 [main] INFO  com.webserver.ServerInit - CLIENT CONNECTED
+2024-07-21 16:00:13 [Thread-7] INFO  com.webserver.ServerInit - SERVER : GET/ HTTP/1.1/ : Requested
+2024-07-21 16:00:13 [Thread-7] INFO  com.webserver.ServerInit - File :D:\Projects\Java\javawebserver\www/project
+2024-07-21 16:00:13 [Thread-7] INFO  com.webserver.ServerInit - Directory :D:\Projects\Java\javawebserver\www/project
+2024-07-21 16:00:13 [Thread-7] INFO  com.webserver.ServerInit - SERVER : [200] 'GET /project/ HTTP/1.1/ '
+2024-07-21 16:00:23 [main] INFO  com.webserver.ServerInit - CLIENT CONNECTED
+2024-07-21 16:00:23 [Thread-8] INFO  com.webserver.ServerInit - SERVER : GET/ HTTP/1.1/ : Requested
+2024-07-21 16:00:23 [Thread-8] INFO  com.webserver.ServerInit - File :D:\Projects\Java\javawebserver\www/project
+2024-07-21 16:00:23 [Thread-8] INFO  com.webserver.ServerInit - Directory :D:\Projects\Java\javawebserver\www/project
+2024-07-21 16:00:23 [Thread-8] INFO  com.webserver.ServerInit - SERVER : [200] 'GET /project/ HTTP/1.1/ '
+2024-07-21 16:00:24 [main] INFO  com.webserver.ServerInit - CLIENT CONNECTED
+2024-07-21 16:00:24 [Thread-9] INFO  com.webserver.ServerInit - SERVER : GET/ HTTP/1.1/ : Requested
+2024-07-21 16:00:24 [Thread-9] INFO  com.webserver.ServerInit - File :D:\Projects\Java\javawebserver\www/project
+2024-07-21 16:00:24 [Thread-9] INFO  com.webserver.ServerInit - Directory :D:\Projects\Java\javawebserver\www/project
+2024-07-21 16:00:24 [Thread-9] INFO  com.webserver.ServerInit - SERVER : [200] 'GET /project/ HTTP/1.1/ '
+2024-07-21 16:00:24 [main] INFO  com.webserver.ServerInit - CLIENT CONNECTED
+2024-07-21 16:00:24 [Thread-10] INFO  com.webserver.ServerInit - SERVER : GET/ HTTP/1.1/ : Requested
+2024-07-21 16:00:24 [Thread-10] INFO  com.webserver.ServerInit - File :D:\Projects\Java\javawebserver\www/project
+2024-07-21 16:00:24 [Thread-10] INFO  com.webserver.ServerInit - Directory :D:\Projects\Java\javawebserver\www/project
+2024-07-21 16:00:24 [Thread-10] INFO  com.webserver.ServerInit - SERVER : [200] 'GET /project/ HTTP/1.1/ '
+2024-07-21 16:00:25 [main] INFO  com.webserver.ServerInit - CLIENT CONNECTED
+2024-07-21 16:00:25 [Thread-11] INFO  com.webserver.ServerInit - SERVER : GET/ HTTP/1.1/ : Requested
+2024-07-21 16:00:25 [Thread-11] INFO  com.webserver.ServerInit - File :D:\Projects\Java\javawebserver\www/project
+2024-07-21 16:00:25 [Thread-11] INFO  com.webserver.ServerInit - Directory :D:\Projects\Java\javawebserver\www/project
+2024-07-21 16:00:25 [Thread-11] INFO  com.webserver.ServerInit - SERVER : [200] 'GET /project/ HTTP/1.1/ '
+2024-07-21 16:00:25 [main] INFO  com.webserver.ServerInit - CLIENT CONNECTED
+2024-07-21 16:00:25 [Thread-12] INFO  com.webserver.ServerInit - SERVER : GET/ HTTP/1.1/ : Requested
+2024-07-21 16:00:25 [Thread-12] INFO  com.webserver.ServerInit - File :D:\Projects\Java\javawebserver\www/project
+2024-07-21 16:00:25 [Thread-12] INFO  com.webserver.ServerInit - Directory :D:\Projects\Java\javawebserver\www/project
+2024-07-21 16:00:25 [Thread-12] INFO  com.webserver.ServerInit - SERVER : [200] 'GET /project/ HTTP/1.1/ '
+2024-07-21 16:00:26 [main] INFO  com.webserver.ServerInit - CLIENT CONNECTED
+2024-07-21 16:00:26 [Thread-13] INFO  com.webserver.ServerInit - SERVER : GET/ HTTP/1.1/ : Requested
+2024-07-21 16:00:26 [Thread-13] INFO  com.webserver.ServerInit - File :D:\Projects\Java\javawebserver\www/project
+2024-07-21 16:00:26 [Thread-13] INFO  com.webserver.ServerInit - Directory :D:\Projects\Java\javawebserver\www/project
+2024-07-21 16:00:26 [Thread-13] INFO  com.webserver.ServerInit - SERVER : [200] 'GET /project/ HTTP/1.1/ '
+2024-07-21 16:00:34 [main] INFO  com.webserver.ServerInit - CLIENT CONNECTED
+2024-07-21 16:00:34 [Thread-14] INFO  com.webserver.ServerInit - SERVER : GET/ HTTP/1.1/ : Requested
+2024-07-21 16:00:34 [Thread-14] INFO  com.webserver.ServerInit - File :D:\Projects\Java\javawebserver\www/project
+2024-07-21 16:00:34 [Thread-14] INFO  com.webserver.ServerInit - Directory :D:\Projects\Java\javawebserver\www/project
+2024-07-21 16:00:34 [Thread-14] INFO  com.webserver.ServerInit - SERVER : [200] 'GET /project/ HTTP/1.1/ '
+2024-07-21 16:01:01 [main] INFO  com.webserver.ServerInit - CLIENT CONNECTED
+2024-07-21 16:01:01 [Thread-15] INFO  com.webserver.ServerInit - SERVER : GET/ HTTP/1.1/ : Requested
+2024-07-21 16:01:01 [Thread-15] INFO  com.webserver.ServerInit - File :D:\Projects\Java\javawebserver\www/index.html
+2024-07-21 16:01:01 [Thread-15] INFO  com.webserver.ServerInit - SERVER : [200] 'GET /index.html/ HTTP/1.1/ '
